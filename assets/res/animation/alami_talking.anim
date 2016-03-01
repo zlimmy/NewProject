@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "alami_talking",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.75,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 54,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "792fa539-00e3-4125-8735-4a3cac7efa2d"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "e2d2022e-26e6-425d-8b3c-84c6d786717e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "56602b71-562f-4385-9e00-ecb3823b11fc"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "ab88cd26-b45f-4fff-accd-5e26c86baa76"
+            }
+          }
+        ]
+      }
+    },
+    "props": {}
+  },
+  "events": []
+}

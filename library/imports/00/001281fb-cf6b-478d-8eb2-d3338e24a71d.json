@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "alami",
+    "texture": "9f39f3cb-6087-4939-a1a6-3ad0a64eda64",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      340,
+      902
+    ],
+    "offset": [
+      -84,
+      59
+    ],
+    "originalSize": [
+      512,
+      1024
+    ],
+    "rotated": 0
+  }
+}
